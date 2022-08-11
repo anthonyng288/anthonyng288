@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @anthonyng288
-- 👀 I’m interested in security and backend
+- 👋 Hi, I’m Anthony 
+- 👀 I’m interested in all things technology whether that be Web, Software Development, Security even Cloud
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me www.linkedin.com/in/anthony-nguyen-tech/
 
 <!---
 anthonyng288/anthonyng288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
