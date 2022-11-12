@@ -25,7 +25,7 @@
 
 ### ☎️ Contact me
 
-[Linkdin](https://www.linkedin.com/in/anthony-nguyen-tech/)
+Linkedin: [anthony-nguyen-tech](https://www.linkedin.com/in/anthony-nguyen-tech/)
 <br />   
 Email: anthonynguyen832@gmail.com
 
