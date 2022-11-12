@@ -23,6 +23,13 @@
           
 #
 
+### ☎️ Contact me
+
+[Linkdin](https://www.linkedin.com/in/anthony-nguyen-tech/)
+Email: anthonynguyen832@gmail.com
+
+
+
 <!---
 anthonyng288/anthonyng288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
