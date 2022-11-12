@@ -43,7 +43,7 @@
 <details>
  <summary><h3>👨‍💻 Why I code</h3></summary>
           As a kid I always had a strained relationship with learning whether that be math, english, science it all felt like a waste of time for me
-          but when I got to highschool I found digital technology, I found coding. At first it was coding in a modded minecraft server making robots mine for diamonds telling a computer to build a house for me, it was honestly my favorite subject, that turned into learning python where I built little applications that manipulated an excel spreadsheet, that was the lightbulb moment, being able to build things making them work that was what I wanted to do. But that involved learning so much on my own, but then I realised that it's okay to fail, it's all in the process so everyday was learning and failing and learning and repeating that until I realised by then I had build something amazing. I wanted this feeling forever and that was the start of my journey
+          but when I got to highschool I found digital technology, I found coding. At first it was coding in a modded minecraft server making robots mine for diamonds telling a computer to build a house for me, it was honestly my favorite subject, that turned into learning python where I built little applications that manipulated an excel spreadsheet, that was my lightbulb moment, being able to build things making them work that was what I wanted to do. I felt like I wanted to know more to be a sponge for knowledge in knowing how to code and build things there were so many things to know and for the first time ever <b>I wanted to learn<b>.
 
 
 
