@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Anthony 
 - 👀 I’m interested in all things technology whether that be Web, Software Development, Security and even Cloud
 - 🌱 I'm a computer science graduate from the Queensland University of Technology 
-- 🌆 Currently I am working on a website to introduce myself and includes a blog to show my learning journey
+- 🌆 Currently I am re-designing my web streamability app coming soon
 
 
 <p align="left">
