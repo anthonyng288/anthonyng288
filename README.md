@@ -3,8 +3,6 @@
 - 👋 Hi, I’m Anthony 
 - 👀 I’m interested in all things technology whether that be Web, Software Development, Security and even Cloud
 - 🌱 I'm a computer science graduate from the Queensland University of Technology 
-- 🌆 Currently I am re-designing my web streamability app coming soon
-
 
 <p align="left">
 <a href="https://www.linkedin.com/in/anthony-nguyen-tech/"><img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=person-fill&logoColor=white"/></a>
